@@ -2841,6 +2841,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u217 {
+  position:absolute;
+  left:1040px;
+  top:1210px;
+  width:200px;
+  height:100px;
+}
+#u217_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:100px;
+}
+#u218 {
+  position:absolute;
+  left:2px;
+  top:42px;
+  width:196px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
@@ -3304,4 +3326,6 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u213.a {
 }
 #u215.a {
+}
+#u217.a {
 }
